@@ -17,4 +17,4 @@ xyz/abc/test.html
 xyz/abc/qwerty/test2.html
 ```
 
-Test site is available at 1070388.tinywp.dev .
+A temporary test site is available at 1070388.tinywp.dev for now!
