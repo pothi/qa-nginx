@@ -10,9 +10,11 @@ Point any domain to your server.
 
 Run curl for the following URLs...
 
+```
 xyz/asset.html
 abc/test.html
 xyz/abc/test.html
 xyz/abc/qwerty/test2.html
+```
 
 Test site is available at 1070388.tinywp.dev .
